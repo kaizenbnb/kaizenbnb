@@ -92,6 +92,12 @@ Industrial: SCADA, Siemens, Schneider Electric, PLC programming, Modbus, Profibu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaizenbnb&theme=dark&hide_border=true&ring=F0B90B&fire=F0B90B&currStreakLabel=F0B90B" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaizenbnb/kaizenbnb/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaizenbnb/kaizenbnb/output/snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kaizenbnb/kaizenbnb/output/snake.svg" />
+</picture>
+
 ---
 
 <p align="center"><i>Kaizen means steady improvement. That is how I work.</i></p>
