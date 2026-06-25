@@ -39,6 +39,12 @@ I learn fast, I ship often, and I care about the numbers being right.
 - Deployments on Vercel, scheduled jobs and serverless functions
 - Git based workflow, clean commits and documented repos
 
+**Industrial systems and SCADA**
+- Wide hands on experience with Siemens and Schneider Electric systems
+- Programming has always been something I enjoy, from PLC logic to data scripts
+- Comfortable with the usual SCADA communication protocols: Modbus, Profibus and Profinet, OPC and OPC UA
+- Reading sensor and process data from the plant floor and turning it into useful information
+
 ## Selected work
 
 **The Binance Index (goat-vs-everyone)**
@@ -65,7 +71,7 @@ On-chain intelligence that tracks large wallet movements and turns them into mar
 Languages and data: Python, SQL, TypeScript, JavaScript, Pandas
 Web and platforms: Next.js, Node.js, Vercel
 Tooling: Git, GitHub, VS Code
-Also: SCADA and control room systems from my engineering background
+Industrial: SCADA, Siemens, Schneider Electric, PLC programming, Modbus, Profibus, Profinet, OPC UA
 
 ## GitHub activity
 
