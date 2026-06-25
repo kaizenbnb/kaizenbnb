@@ -11,6 +11,14 @@
   <img src="https://img.shields.io/badge/Crypto%20%26%20On--chain-analytics-1E2026?style=for-the-badge&labelColor=F0B90B" />
 </p>
 
+<!-- ===== CONTACT BADGES ===== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/oliver-arjonilla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arjonilla@protonmail.com"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/arjonillakaizen" target="_blank"><img src="https://img.shields.io/badge/X%20@arjonillakaizen-000000?style=for-the-badge&logo=x&logoColor=white" alt="X personal" /></a>
+  <a href="https://x.com/mrkaizenbnb" target="_blank"><img src="https://img.shields.io/badge/X%20@MrKaizenBNB-1E2026?style=for-the-badge&logo=x&logoColor=F0B90B" alt="X volunteer" /></a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaizenbnb&label=Profile%20views&color=F0B90B&style=flat" alt="profile views" />
 </p>
