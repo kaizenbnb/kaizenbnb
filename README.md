@@ -42,6 +42,16 @@ Industrial / SCADA → Hands on with Siemens and Schneider Electric, PLC program
 
 <br>
 
+### Featured project
+
+**[Crypto Market Intelligence](https://github.com/kaizenbnb/crypto-market-intelligence)**
+
+A reproducible SQL and Python project that uses public Binance market data to detect volatility regimes, abnormal volume, trading session patterns and a market health score across major crypto pairs. It is built the way a real analytics task would be: raw data in, clean schema, analytical SQL, clear charts and a short report a non technical reader can follow.
+
+`Stack: SQL · DuckDB · Python · pandas · matplotlib · Jupyter`
+
+<br>
+
 ### Things I have built
 
 <table>
