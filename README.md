@@ -1,76 +1,73 @@
-<!-- ===== HEADER ===== -->
-<h1 align="center">⚡ Kaizen · Data Analyst in the making</h1>
-<p align="center"><i>From Industrial Engineering & SCADA to Crypto Data Analytics</i></p>
+<h1 align="center">Kaizen</h1>
+<p align="center"><b>Data Analyst and AI builder</b> · Crypto and on-chain data · SQL, Python and modern web platforms</p>
 
-<!-- ===== ROLE BADGES ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst%20(self--taught)-F0B90B?style=for-the-badge&labelColor=1E2026" />
-  <img src="https://img.shields.io/badge/Focus-Crypto%20%26%20On--chain%20Data-1E2026?style=for-the-badge&labelColor=F0B90B" />
+  <img src="https://img.shields.io/badge/SQL-data%20analysis-4479A1?style=for-the-badge&labelColor=1E2026" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-LLM%20apps-F0B90B?style=for-the-badge&labelColor=1E2026" />
+  <img src="https://img.shields.io/badge/Crypto%20%26%20On--chain-analytics-1E2026?style=for-the-badge&labelColor=F0B90B" />
 </p>
 
-<!-- ===== TYPING SVG ===== -->
 <p align="center">
   <a href="https://github.com/kaizenbnb">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0B90B&center=true&vCenter=true&width=600&lines=Curious+mind%2C+restless+builder.;Industrial+Engineer+%E2%86%92+SCADA+%E2%86%92+Data;Turning+crypto+data+into+insights.;Self-taught%2C+driven+by+motivation." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0B90B&center=true&vCenter=true&width=620&lines=I+turn+raw+data+into+clear+decisions.;I+build+agentic+AI+tools+that+actually+ship.;SQL%2C+Python+and+modern+web+stacks.;Crypto+data%2C+dashboards+and+automation." alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+## Profile
 
-I am an **Industrial Engineer** specialized in building maintenance (HVAC – heating & cooling systems). When I moved to **Australia**, I started a tech specialization focused on **control rooms and SCADA systems**, and that is where I fell in love with **data**.
+Data analyst and builder with a strong engineering background. I started in industrial engineering and control systems (SCADA), and I moved into data because that is where I solve real problems. I work with SQL and Python to clean, model and analyze data, and I build agentic AI tools and web apps on top of it. Most of my hands on work happens in the crypto space, where I ship dashboards, indexes and automation that turn live market data into something useful.
 
-Today I am a **self-taught, restless builder** who turns curiosity into real projects. I do not hold an official data degree (yet) — but I learn by **building, measuring and analyzing**. My playground is the **crypto ecosystem**, where I volunteer creating reports, analytics and tools, many of them around the **Binance** ecosystem.
+I learn fast, I ship often, and I care about the numbers being right.
 
-- 🏭 Background in **Industrial Engineering** & **HVAC / building systems**
-- 🖥️ Hands-on with **SCADA**, control rooms & **industrial data**
-- 📊 Passionate about **data analytics, reporting & dashboards**
-- 🪙 Volunteer building **crypto data tools & market intelligence**
-- 🌱 Always learning — *Kaizen* means **continuous improvement**
+## What I bring to a team
 
----
+**Data and analytics**
+- Writing SQL to query, join and aggregate data for reporting and analysis
+- Cleaning and modeling data with Python and Pandas
+- Building dashboards and indexes that track live metrics
+- Designing data ingestion jobs that run on a schedule
 
-## 🛠️ What I Do With Data
+**Agentic AI**
+- Building LLM powered assistants and tools (see JAGER-AI)
+- Connecting models to real actions through function calling and tools
+- Prompt design and structured outputs for reliable results
 
-- **Data ingestion & pipelines** — scheduled jobs that collect market & on-chain data
-- **Market intelligence** — comparative indexes and metrics across exchanges & chains
-- **Analytics & reporting** — turning raw numbers into clear, useful insights
-- **Data apps & dashboards** — building web tools to visualize what the data says
+**Modern platforms and delivery**
+- Web apps with Next.js, TypeScript and Node.js
+- Deployments on Vercel, scheduled jobs and serverless functions
+- Git based workflow, clean commits and documented repos
 
----
+## Selected work
 
-## 🚀 Featured Projects
+**The Binance Index (goat-vs-everyone)**
+A live index that measures Binance against other exchanges, chains and traditional finance. I built the data ingestion layer, the metrics and the web app that visualizes it. Scheduled jobs keep the data fresh.
+[Ingestion service](https://github.com/kaizenbnb/goat-vs-everyone-crons)
 
-| Project | What it does |
-| --- | --- |
-| 🐐 [**goat-vs-everyone**](https://github.com/kaizenbnb/goat-vs-everyone-crons) | The Binance Index — measuring Binance against exchanges, chains and TradFi. Data ingestion + analytics + web visualization. |
-| 🐋 **whale-intel** | Whale & on-chain intelligence — tracking large movements to extract market signals. |
-| 🧾 [**Angel-TAX**](https://github.com/kaizenbnb/Angel-TAX) | Crypto taxation in Spain — open source, privacy first. Data modeling around transactions. |
-| 🤖 [**JAGER-AI**](https://github.com/kaizenbnb/JAGER-AI) | A Binance-themed AI assistant to help users stay SAFU and use Binance smarter. |
+**JAGER-AI**
+A Binance themed AI assistant that helps users stay safe and use the platform smarter. An example of agentic AI applied to a real product idea.
+[View project](https://github.com/kaizenbnb/JAGER-AI)
 
-> 🔒 Some projects are private while in progress — happy to walk through them on request.
+**Angel-TAX**
+An open source tool for crypto taxation in Spain, built with privacy in mind. Focused on modeling transaction data into clear tax reports.
+[View project](https://github.com/kaizenbnb/Angel-TAX)
 
----
+**Whale Intel**
+On-chain intelligence that tracks large wallet movements and turns them into market signals. (Private while in progress.)
 
-## 🧰 Tech Stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,nodejs,postgres,html,css,git,github,vercel,vscode" />
 </p>
 
-**Data toolbox I use & keep learning:**
+Languages and data: Python, SQL, TypeScript, JavaScript, Pandas
+Web and platforms: Next.js, Node.js, Vercel
+Tooling: Git, GitHub, VS Code
+Also: SCADA and control room systems from my engineering background
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![SCADA](https://img.shields.io/badge/SCADA%20%2F%20Control%20Rooms-1E2026?style=flat-square)
-
----
-
-## 📊 GitHub Stats
+## GitHub activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaizenbnb&show_icons=true&theme=dark&hide_border=true&title_color=F0B90B&icon_color=F0B90B&count_private=true" />
@@ -83,6 +80,4 @@ Today I am a **self-taught, restless builder** who turns curiosity into real pro
 
 ---
 
-<p align="center">
-  <i>"Kaizen" — small, constant steps toward becoming a data professional. 📈</i>
-</p>
+<p align="center"><i>Kaizen means steady improvement. That is how I work.</i></p>
