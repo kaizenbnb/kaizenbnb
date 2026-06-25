@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Analyst%20(self--taught)-F0B90B?style=for-the-badge&labelColor=1E2026" />
   <img src="https://img.shields.io/badge/Focus-Crypto%20%26%20On--chain%20Data-1E2026?style=for-the-badge&labelColor=F0B90B" />
-  <img src="https://img.shields.io/badge/Goal-Binance%20Data%20Team-F0B90B?style=for-the-badge&labelColor=1E2026" />
 </p>
 
 <!-- ===== TYPING SVG ===== -->
@@ -22,13 +21,12 @@
 
 I am an **Industrial Engineer** specialized in building maintenance (HVAC – heating & cooling systems). When I moved to **Australia**, I started a tech specialization focused on **control rooms and SCADA systems**, and that is where I fell in love with **data**.
 
-Today I am a **self-taught, restless builder** who turns curiosity into real projects. I do not hold an official data degree (yet) — but I learn by **building, measuring and analyzing**. My playground is the **crypto ecosystem**, where I volunteer creating reports, analytics and tools, many of them pointing towards the **Binance** ecosystem.
+Today I am a **self-taught, restless builder** who turns curiosity into real projects. I do not hold an official data degree (yet) — but I learn by **building, measuring and analyzing**. My playground is the **crypto ecosystem**, where I volunteer creating reports, analytics and tools, many of them around the **Binance** ecosystem.
 
 - 🏭 Background in **Industrial Engineering** & **HVAC / building systems**
 - 🖥️ Hands-on with **SCADA**, control rooms & **industrial data**
 - 📊 Passionate about **data analytics, reporting & dashboards**
 - 🪙 Volunteer building **crypto data tools & market intelligence**
-- 🎯 Goal: join a **data role at Binance** and grow my career in data
 - 🌱 Always learning — *Kaizen* means **continuous improvement**
 
 ---
