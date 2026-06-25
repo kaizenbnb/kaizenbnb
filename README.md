@@ -1,4 +1,4 @@
-<h1 align="center">Arjonilla-Kaizen</h1>
+<h1 align="center">Arjonilla Kaizen</h1>
 <p align="center"><b>Data Analyst and AI builder</b> · Crypto and on-chain data · SQL, Python and modern web platforms</p>
 
 <p align="center">
