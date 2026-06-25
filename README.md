@@ -19,7 +19,7 @@
 
 <br>
 
-### 👋 Hi, I'm Oliver
+### Hi, I'm Oliver
 
 I am a data analyst and builder with an engineering background. I started in industrial engineering and control systems, and I moved into data because that is where I get to solve real problems. I work with SQL and Python to make sense of messy data, and I build agentic AI tools and web apps on top of it.
 
@@ -27,44 +27,44 @@ Most of my hands on work happens in the crypto space, where I ship dashboards, i
 
 <br>
 
-### 🧩 What I bring to a team
+### What I bring to a team
 
 ```text
-Data & analytics   →  SQL queries, data cleaning and modeling with Python and Pandas,
-                      dashboards and indexes that track live metrics.
-Agentic AI         →  LLM assistants and tools, function calling, prompt design,
-                      reliable structured outputs.
-Platforms          →  Next.js, TypeScript and Node.js apps, Vercel deployments,
-                      scheduled jobs and clean Git workflow.
-Industrial / SCADA →  Hands on with Siemens and Schneider Electric, PLC programming,
-                      Modbus, Profibus, Profinet and OPC UA.
+Data & analytics → SQL queries, data cleaning and modeling with Python and Pandas,
+                   dashboards and indexes that track live metrics.
+Agentic AI       → LLM assistants and tools, function calling, prompt design,
+                   reliable structured outputs.
+Platforms        → Next.js, TypeScript and Node.js apps, Vercel deployments,
+                   scheduled jobs and clean Git workflow.
+Industrial / SCADA → Hands on with Siemens and Schneider Electric, PLC programming,
+                     Modbus, Profibus, Profinet and OPC UA.
 ```
 
 <br>
 
-### 🚀 Things I have built
+### Things I have built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🐐 The Binance Index</h4>
+      <h4>The Binance Index</h4>
       A live index that measures Binance against other exchanges, chains and traditional finance. I built the ingestion layer, the metrics and the web app.<br>
       <a href="https://github.com/kaizenbnb/goat-vs-everyone-crons">Ingestion service →</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 JAGER-AI</h4>
-      A Binance themed AI assistant that helps users stay safe and use the platform smarter. Agentic AI applied to a real product idea.<br>
+      <h4>JAGER-AI</h4>
+      An agentic AI assistant that researches on-chain and market data and returns clean, structured answers.<br>
       <a href="https://github.com/kaizenbnb/JAGER-AI">View project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧾 Angel-TAX</h4>
+      <h4>Angel-TAX</h4>
       An open source tool for crypto taxation in Spain, built with privacy in mind. Models transaction data into clear tax reports.<br>
       <a href="https://github.com/kaizenbnb/Angel-TAX">View project →</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🐋 Whale Intel</h4>
+      <h4>Whale Intel</h4>
       On-chain intelligence that tracks large wallet movements and turns them into market signals.<br>
       <i>Private while in progress.</i>
     </td>
@@ -73,7 +73,7 @@ Industrial / SCADA →  Hands on with Siemens and Schneider Electric, PLC progra
 
 <br>
 
-### 🛠️ Tools I work with
+### Tools I work with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,nodejs,postgres,html,css,git,github,vercel,vscode&perline=12" />
@@ -81,7 +81,7 @@ Industrial / SCADA →  Hands on with Siemens and Schneider Electric, PLC progra
 
 <br>
 
-### 📈 A look at my GitHub
+### A look at my GitHub
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=kaizenbnb&show_icons=true&theme=transparent&hide_border=true&title_color=F0B90B&icon_color=F0B90B&text_color=555&count_private=true" />
@@ -97,6 +97,6 @@ Industrial / SCADA →  Hands on with Siemens and Schneider Electric, PLC progra
   </picture>
 </p>
 
-<p align="center"><sub><i>Kaizen — small, steady steps. That is how I work.</i></sub></p>
+<p align="center"><sub><i>Kaizen. Small, steady steps. That is how I work.</i></sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD75E,50:F0B90B,100:FFE9A8&height=70&section=footer" width="100%" />
