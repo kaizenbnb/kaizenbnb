@@ -1,7 +1,6 @@
-<!-- ===== BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0B90B,100:1E2026&height=200&section=header&text=Kaizen%20%7C%20Data%20Analyst%20in%20the%20making&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Industrial%20Engineering%20%26%20SCADA%20to%20Crypto%20Data%20Analytics&descAlignY=58&descSize=16" width="100%" />
-</p>
+<!-- ===== HEADER ===== -->
+<h1 align="center">⚡ Kaizen · Data Analyst in the making</h1>
+<p align="center"><i>From Industrial Engineering & SCADA to Crypto Data Analytics</i></p>
 
 <!-- ===== ROLE BADGES ===== -->
 <p align="center">
