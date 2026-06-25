@@ -1,10 +1,18 @@
-<h1 align="center">Arjonilla Kaizen</h1>
+<!-- ===== HEADER BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0B90B,100:1E2026&height=190&section=header&text=Arjonilla%20Kaizen&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20and%20AI%20builder%20%7C%20Crypto%20and%20on-chain%20data&descAlignY=62&descSize=18" width="100%" />
+</p>
+
 <p align="center"><b>Data Analyst and AI builder</b> · Crypto and on-chain data · SQL, Python and modern web platforms</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-data%20analysis-4479A1?style=for-the-badge&labelColor=1E2026" />
   <img src="https://img.shields.io/badge/Agentic%20AI-LLM%20apps-F0B90B?style=for-the-badge&labelColor=1E2026" />
   <img src="https://img.shields.io/badge/Crypto%20%26%20On--chain-analytics-1E2026?style=for-the-badge&labelColor=F0B90B" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaizenbnb&label=Profile%20views&color=F0B90B&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
