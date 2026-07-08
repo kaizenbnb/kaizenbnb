@@ -22,15 +22,19 @@ El apalancamiento extremo no es una herramienta, es una cuenta atrás. Úsalo sa
 
 ## Post 2 — El funding es la fee real
 
-Todo el mundo compara fees de perp DEXs mirando maker/taker.
+Todo el mundo compara perp DEXs mirando fees de maker/taker.
 
-Error.
+Error de principiante.
 
-Long BTC 20x con funding +0,05%/hora:
-• Fee de entrada (taker 0,035%): $3,50 por cada $10k
-• Funding: ~2,4% AL DÍA = $240 por cada $10k
+Long de $10k en BTC en un mercado sobrecalentado (funding +0,1%/hora):
+• Fee de entrada (taker 0,035%): $3,50
+• Funding: 2,4% al día = $240
 
-El funding es 68 veces la fee. Compara funding, no fees.
+Y ojo: el funding se paga sobre la posición, no sobre tu margen. A 20x, esos $240 son el 48% diario de tu margen.
+
+La fee es ruido. Compara funding, no fees.
+
+*(Nota: +0,1%/hora es un régimen extremo, no el funding típico (~0,01% cada 8h). En mercados tranquilos funding y fee son comparables — el post describe el escenario donde el funding domina, que es donde la gente se quema.)*
 
 ---
 

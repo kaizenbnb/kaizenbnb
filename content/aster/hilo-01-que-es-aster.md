@@ -71,7 +71,7 @@ Fees (modo Pro, cripto): maker desde 0,01% / taker desde 0,035%. Competitivas.
 
 Pero ojo: el coste real en perps no es la fee de entrada, es el FUNDING.
 
-Una posición 20x con funding de +0,05%/hora paga ~2,4% AL DÍA en carry. La fee de 0,035% es ruido al lado de eso.
+En un régimen caliente de +0,1%/hora, una posición paga 2,4% AL DÍA en carry (sobre el notional, no sobre tu margen). La fee de 0,035% es ruido al lado de eso.
 
 **10/12**
 Los números (enero 2026, DefiLlama):
